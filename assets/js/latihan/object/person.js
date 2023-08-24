@@ -46,4 +46,5 @@ persons.push(perempuan);
 console.log(persons);
 
 // 7. panggil fungsi Person.find(name) dan muncul kan object person berdasarkan nama yang di input.
+console.log("Hasil Pencarian inputan name :");
 console.log(Person.find("Tuan Hendar"));
